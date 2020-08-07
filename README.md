@@ -1,2 +1,2 @@
 # Movie_Recommendation_System
-Recommending Movies using User Based and Item Based Collaborative filtering Model
+Recommending Movies to the customer using User Based and Item Based Collaborative Filtering Model
