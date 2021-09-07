@@ -10,4 +10,4 @@ A collaborative recommender system makes a recommendation based on how similar u
 # So how does Cosine Similarity work????
 Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The cosine similarity is advantageous because even if the two similar documents are far apart by the Euclidean distance (due to the size of the document), chances are they may still be oriented closer together. The smaller the angle, higher the cosine similarity.
 
-Recommending Movies to the customer using User Based and Item Based Collaborative Filtering Model
+So we will be recommending Movies to the customer using User Based and Item Based Collaborative Filtering Model
